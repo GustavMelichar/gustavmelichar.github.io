@@ -22,7 +22,8 @@ sections:
         I have designed and taught 35 courses at the Bachelor's and Master's levels in full responsibility at Marquette, Heidelberg, and Bamberg universities. Since 2021, I hold the Certificate for Teaching in Higher Education of the Bavarian Universities at the basic and advanced levels. Philosophy students and students in various subjects such as psychology, medicine, literature, physics, and mathematics have attended my courses.
 
         ## Student Feedback
-
+        *The following comments are a selection from anonymous course evaluations at Marquette University and Universität Heidelberg.*
+        
         **Marquette University**
 
         > "Mr. Melichar is one of the most compassionate, kind hearted, and genuinely caring professors I have ever met. He made the material practical as each class involved discussion and application to real life making it especially interesting. I will be sure to use the lessons and ethics he taught us in my future in medicine."
