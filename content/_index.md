@@ -13,33 +13,41 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        <table style="border: none; border-collapse: collapse;">
-        <tr>
-        <td style="border: none; padding-right: 2rem; vertical-align: top; width: 220px;">
+        <h1 style="text-align: center;">Gustav Melichar</h1>
+
+        <div style="display: grid; grid-template-columns: 220px 1fr; gap: 2rem; align-items: start; margin-top: 2rem;">
+        <div>
         {{< figure src="authors/melichar/IMG_1199.jpeg" width="200px" style="border-radius: 50%;" >}}
-        </td>
-        <td style="border: none; vertical-align: top;">
+        </div>
+        <div style="padding-top: 0;">
 
-        ## Gustav Melichar
-        ### Philosopher, Postdoctoral Researcher & Systemic Counselor
+        **Postdoctoral Researcher & Philosophical Counselor**
 
-        I am a postdoctoral researcher at the Section for Phenomenological Psychopathology and Psychotherapy, Heidelberg University Hospital, and a trained systemic counselor (DGSF).
+        I am a postdoctoral researcher at the Section for Phenomenological Psychopathology and Psychotherapy, Heidelberg University Hospital, and a trained philosophical counselor.
 
         I work at the intersection of Aristotelian naturalism, enactivist cognitive science, and transcendental philosophy to develop a non-reductive account of embodied rational capacities. My research addresses the normativity of mental illness, the conditions of autonomy, and the role of trust in social and therapeutic practices, drawing systematically on both the history of philosophy and contemporary cognitive science.
 
-        </td>
-        </tr>
-        </table>
+        </div>
+        </div>
     design:
-      columns: '1'
-  - block: markdown
+      columns: '1' 
+  - block: collection
+    id: news
     content:
-      title: 'My Research'
+      title: 'News'
       subtitle: ''
-      text: |-
-        I work at the intersection of Aristotelian naturalism, enactivist cognitive science, and transcendental philosophy to develop a non-reductive account of embodied rational capacities. My research addresses the normativity of mental illness, the conditions of autonomy, and the role of trust in social and therapeutic practices, drawing systematically on both the history of philosophy and contemporary cognitive science.
+      page_type: blog
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      order: desc
     design:
-      columns: '1'
+      view: card 
   - block: markdown
     content:
       title: 'Publications'

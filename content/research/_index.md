@@ -33,9 +33,9 @@ sections:
 
         ## Research Principles
 
-        In my research, I am interested in building bridges between disciplines. It seems to me that it is a task of philosophy to synthesize our state of knowledge. For this purpose, I work interdisciplinarily and always try to be involved in a diverse exchange of ideas. Within philosophy it is also close to my heart to build bridges — especially the collaboration of theoretical and practical philosophy determines my research.
+        My research is guided by the conviction that philosophy has a synthesizing task — bringing together insights from different disciplines rather than retreating into specialization. I work interdisciplinarily, combining systematic and historical approaches, and I am particularly interested in the collaboration of theoretical and practical philosophy.
 
-        I work systematically and historically informed. This seems important in philosophy because the discipline does not show linear progress. Thus, historical texts hold important insights that can take us further. Methodologically, I am especially interested in formal logic and modal logic, conceptual analysis, and hermeneutics.
+        Historically informed work seems indispensable in philosophy because the discipline does not show linear progress. Historical texts continue to offer conceptual resources that contemporary discussions frequently overlook. Methodologically, I draw on formal and modal logic, conceptual analysis, and hermeneutics.
 
         ## Projects
 

@@ -2,6 +2,9 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: News
+    url: /blog/
+    weight: 15
   - name: Research
     url: /research/
     weight: 20
