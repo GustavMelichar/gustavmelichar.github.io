@@ -15,7 +15,7 @@ main:
     url: /experience/
     weight: 50
   - name: Systemic Counseling
-    url: /systemic-counseling/
+    url: /philosophical-counseling/
     weight: 60
   - name: Contact
     url: /contact/
