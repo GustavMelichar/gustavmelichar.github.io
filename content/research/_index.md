@@ -11,7 +11,7 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        Since my youth, I have intensely wondered how we can understand ourselves as autonomous subjects and purposeful beings. Our subjectivity means being irreplaceable and having our very own perspective on the world. This makes us human beings great, and at the same time can make us lonely,because no one can fully share their own perspective.
+        My research sits at the intersection of Aristotelian naturalism, enactivist cognitive science, and transcendental philosophy. I am particularly interested in how philosophy can contribute to our understanding of the human mind, mental illness, and the conditions of autonomy.
 
         That is why I have always been interested in how we can find common ground, come to an understanding, and agree on a reasonable way to live together without losing our autonomy. In science we often do not appear as subjects and as purposeful beings. But our ability to feel, to think and to act depends essentially on these qualities. Therefore, I am working on how philosophy can illuminate these themes.
 
