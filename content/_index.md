@@ -55,12 +55,12 @@ sections:
       text: |-
         ## Recent Publications
 
+        **Melichar, H. G.** (2026). Verkörperte Vernunft. Kann der Enaktivismus Hegels Psychologie aktualisieren? *Internationales Jahrbuch für philosophische Anthropologie*, hrsg. von S. Schüz.
+
         **Melichar, H. G.**, Schmidt-Boddy, P., Vespermann, D., and Fuchs, Th. (2026). For real? – Epistemic trust within online environments and the lures of conspiracy thinking. *Human Studies.*
 
         **Melichar, H. G.** (2025). Bullshitting und Spitting. Ein Essay zur Sprache im öffentlichen Raum. *Deutsche Zeitschrift für Philosophie.* https://doi.org/10.1515/dzph-2025-0022
-
-        **Melichar, H. G.** (2025). Autonomy and Vulnerability: Elements of a Phenomenology of Reflection and Reason. *Human Studies.* https://doi.org/10.1007/s10746-024-09775-w
-
+      
         For a full list of publications see the [Publications page](/publications/).
     design:
       columns: '1'
