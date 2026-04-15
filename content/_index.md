@@ -21,7 +21,7 @@ sections:
         </div>
         <div style="padding-top: 0;">
 
-        **Postdoctoral Researcher & Philosophical Counselor**
+        **Philosopher, Postdoctoral Researcher & Systemic Counselor**
 
         I am a postdoctoral researcher at the Section for Phenomenological Psychopathology and Psychotherapy, Heidelberg University Hospital, and a trained philosophical counselor.
 
