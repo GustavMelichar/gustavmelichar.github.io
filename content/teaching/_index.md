@@ -11,17 +11,17 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        ## Teaching Philosophy and Style
+        ### Teaching Philosophy and Style
 
         My teaching philosophy is to inspire a deep and lasting interest in my students in the intellectual challenges of philosophy. I aim to develop the students' skills in every interaction, such as critical thinking, argumentative rigor, self-reflection, and cultural orientation. I firmly believe in the Humboldtian unity of research and teaching. Therefore, my teaching is informed by my research on Classical German Philosophy, phenomenology, and philosophy of mind. I use historical and contemporary philosophical texts supplemented by podcasts, talks, and films.
 
         With my teaching style, I strive to be motivating and supportive. I build on a strong interest in each student's development. To feed the interest and keep concentration high, I integrate shorter phases of different teaching methods, such as lecturing, group work, student presentations, brief writing and reflection assignments, and online components.
 
-        ## Experience
+        ### Experience
 
         I have designed and taught 35 courses at the Bachelor's and Master's levels in full responsibility at Marquette, Heidelberg, and Bamberg universities. Since 2021, I hold the Certificate for Teaching in Higher Education of the Bavarian Universities at the basic and advanced levels. Philosophy students and students in various subjects such as psychology, medicine, literature, physics, and mathematics have attended my courses.
 
-        ## Student Feedback
+        ### Student Feedback
         *The following comments are a selection from anonymous course evaluations at Marquette University and Universität Heidelberg.*
         
         **Marquette University**
@@ -44,9 +44,9 @@ sections:
         >
         > — Teilnehmer/in, Philosophie des Geistes und die Psychopathologie, Heidelberg, 2026
 
-        ## Courses
+        ### Courses
 
-        ### Universität Heidelberg
+        #### Universität Heidelberg
 
         **10/2025 – 03/2026** Philosophie des Geistes und die Psychopathologie: Eine Einführung *(Block seminar)*
 
@@ -54,15 +54,15 @@ sections:
 
         **05/2022 – 07/2022** Verkörperungstheorien und situierte Vernunft *(Block seminar, with Prof. Dr. Dr. Thomas Fuchs)*
 
-        ### Marquette University, Milwaukee, WI, USA
+        #### Marquette University, Milwaukee, WI, USA
 
         **08/2023 – 05/2024** Foundations in Philosophy: Intellectual Virtues *(four courses, in English)*
 
-        ### Studienstiftung des deutschen Volkes
+        #### Studienstiftung des deutschen Volkes
 
         **07/2021** Ende des Verstehens? Zum Objektivitätsproblem in den Geisteswissenschaften *(Summer Academy, Schmitten, Taunus)*
 
-        ### Universität Bamberg
+        #### Universität Bamberg
 
         **11/2020 – 02/2021** Was ist Denken? Grundlagen der Kognitionsforschung im 20. Jahrhundert
 
@@ -86,7 +86,7 @@ sections:
 
         **02/2021 – 03/2021** Critical Thinking. Argumentieren, Reflektieren, Evaluieren in der Praxis
 
-        ## Reading Groups
+        #### Reading Groups
 
         - Hegel: Phänomenologie des Geistes
         - Nietzsche: Genealogie der Moral
@@ -95,7 +95,7 @@ sections:
         - Husserl: Cartesianische Meditationen
         - Descartes: Meditationen über die erste Philosophie
 
-        ## Thesis Supervision
+        ### Thesis Supervision
 
         **Universität Heidelberg**
         - 04/2022 – 09/2022: Master thesis, *Not complex enough for complexity*
@@ -105,7 +105,7 @@ sections:
         - 05/2018 – 01/2019: Bachelor thesis, *Parteien als Bewegung*
         - 07/2018 – 10/2018: Bachelor thesis, *Phänomenologie von Atmosphären*
 
-        ## Teaching Statement
+        ### Teaching Statement
 
         Please do not hesitate to write to me if you would like to receive my full teaching statement.
     design:

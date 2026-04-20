@@ -11,13 +11,13 @@ sections:
       title: 'Counseling'
       subtitle: ''
       text: |-
-        ## Systemic and Philosophical Counseling
+        ### Systemic and Philosophical Counseling
 
         Socrates described philosophical discussion as maieutics — the art of midwifery. The idea is that the counselor does not lecture or prescribe, but helps others bring forth their own new ideas and possibilities. This image connects naturally with my interest in autonomy: being an intelligent stepping stone for the self-development and flourishing of others is central to my counseling work.
 
         I offer counseling for individuals, couples, and families, both in person and online.
 
-        ## Qualifications
+        ### Qualifications
 
         I am a certified systemic consultant and family counselor, certified by the Deutsche Gesellschaft für Systemische Therapie, Beratung und Familientherapie (DGSF), trained at the Würzburger Institut für systemisches Denken und Handeln.
 
@@ -25,7 +25,7 @@ sections:
 
         Prior to my academic career, I worked as a nursing assistant in psychiatric residential homes at the v. Bodelschwingh Foundation Bethel, which gave me formative experience relevant to counseling practice.
 
-        ## What I Offer
+        ### What I Offer
 
         Systemic counseling works with the relational and contextual dimensions of human experience. Rather than focusing on individual pathology, it looks at patterns, relationships, and the social contexts that shape our lives. In this framework, change becomes possible by exploring new perspectives, resources, and possibilities together.
 
@@ -36,7 +36,7 @@ sections:
         - Professional and vocational challenges
         - Philosophical life counseling for individuals seeking structured reflection
 
-        ## Practical Information
+        ### Practical Information
 
         **Languages:** German and English
 
@@ -46,7 +46,7 @@ sections:
 
         ---
 
-        ## Systemische und philosophische Beratung
+        ### Systemische und philosophische Beratung
 
         Ich biete systemische Beratung für Einzelpersonen, Paare und Familien an — sowohl in Person als auch online.
 

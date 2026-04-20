@@ -12,7 +12,7 @@ sections:
       title: 'Curriculum Vitae'
       subtitle: ''
       text: |-
-        ## Academic Positions
+        ### Academic Positions
 
         **since 01/2026** (Co-)PI and Research Fellow, Heidelberger Akademie der Wissenschaften, Research Project "Von Pathologie zum Potential. Ein interdisziplinärer Ansatz zur Erforschung extremer Embodimenterfahrungen"
 
@@ -24,7 +24,7 @@ sections:
 
         **04/2017 – 09/2021** Research and Teaching Fellow, Otto-Friedrich-Universität Bamberg, Chair of Practical Philosophy
 
-        ## Academic Education
+        ### Academic Education
 
         **since 10/2021** Habilitation in preparation, Universität Heidelberg, Project: *Verkörperte Vernunft* (submission: September 2026)
 
@@ -32,7 +32,7 @@ sections:
 
         **10/2006 – 09/2012** Magister Artium, Fr.-Schiller-Universität Jena and Hochschule für Musik Fr. Liszt Weimar, *sehr gut* (1.0), Thesis: *Subjektivität und Letztbegründung* (Supervisors: PD Dr. Temilo van Zantwijk, Prof. Dr. Dina Emundts). Major: Philosophy; Minors: Sociology, Musicology
 
-        ## Grants and Funding
+        ### Grants and Funding
 
         **10/2025** Conference grant, DFG: "Das Selbst in der sozialen Welt", €25,000
 
@@ -50,7 +50,7 @@ sections:
 
         **04/2024** Conference grant, American Friends of Humboldt, $700
 
-        ## Fellowships and Scholarships
+        ### Fellowships and Scholarships
 
         **08/2023 – 07/2024** Feodor-Lynen Fellowship, Alexander von Humboldt Foundation, €40,000. Project: "Reason as the foundation of the philosophy of mind?"
 
@@ -60,7 +60,7 @@ sections:
 
         **04/2007 – 09/2012** Undergraduate Fellowship, Studienstiftung des deutschen Volkes, €55,250
 
-        ## Research Stays
+        ### Research Stays
 
         **08/2023 – 07/2024** Department of Philosophy, Marquette University, USA. Feodor-Lynen Research Fellow, invited by Prof. Dr. Sebastian Luft
 
@@ -72,17 +72,17 @@ sections:
 
         **09/2008 – 06/2009** Université Lumière Lyon 2, France. Study abroad
 
-        ## Teaching Experience (Selection)
+        ### Teaching Experience (Selection)
 
-        ### Universität Heidelberg
+        #### Universität Heidelberg
         - 10/2025 – 03/2026: Blockseminar Philosophie des Geistes und die Psychopathologie: Eine Einführung
         - 10/2024 – 03/2025: Blockseminar Was ist Leben?, with Prof. Dr. Dr. Thomas Fuchs
         - 05/2022 – 07/2022: Blockseminar Verkörperungstheorien und situierte Vernunft, with Prof. Dr. Dr. Thomas Fuchs
 
-        ### Marquette University, Milwaukee, WI, USA
+        #### Marquette University, Milwaukee, WI, USA
         - 08/2023 – 05/2024: Foundations in Philosophy: Intellectual Virtues (four courses)
 
-        ### Universität Bamberg
+        #### Universität Bamberg
         - Was ist Denken? Grundlagen der Kognitionsforschung im 20. Jahrhundert
         - Philosophie und Psychologie: Das Unbewusste
         - Grundlagen der Hermeneutik
@@ -95,7 +95,7 @@ sections:
         - Einführung in die Philosophie der Subjektivität
         - Critical Thinking. Argumentieren, Reflektieren, Evaluieren
 
-        ## Conference Organization
+        ### Conference Organization
 
         - 09/2026: International Conference "The Self in a Social World", Universität Heidelberg
         - 08/2026: Workshop "From Life to Mind: The Return of Hylemorphism in the Embodied Mind", Universität Heidelberg
@@ -105,11 +105,11 @@ sections:
         - 09/2022: International Conference "The Emotions: Phenomenology, Psychopathology, and Psychotherapy", Universität Heidelberg
         - 09/2021 – 08/2023: Colloquium for Phenomenology and Psychopathology, Universität Heidelberg
 
-        ## Peer Review
+        ### Peer Review
 
         Review of Metaphysics, TOPOI, Human Studies, European Journal for Philosophy of Religion, Archivio de Filosofia, Idealist Studies, International Journal of Philosophical Studies, Journal of Transcendental Philosophy, Humanities and Social Sciences Communications
 
-        ## Languages
+        ### Languages
 
         - German (native)
         - English (proficient)

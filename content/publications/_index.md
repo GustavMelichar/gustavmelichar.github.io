@@ -12,15 +12,15 @@ sections:
       title: 'Publications'
       subtitle: ''
       text: |-
-        ## Monographs
+        ### Monographs
 
         **Melichar, H. G.** (2020). *Die Objektivität des Absoluten. Der ontologische Gottesbeweis in Hegels Wissenschaft der Logik im Spiegel der Kantischen Kritik.* Mohr Siebeck, Collegium Metaphysicum. ISBN 978-3-16-156916-6
 
-        ## Edited Volumes
+        ### Edited Volumes
 
         **Melichar, H. G.** et al. (forthcoming 2026). *Phenomenology of Emotion: Embodiment and Vulnerability. Perspectives from Philosophy, Psychopathology, and Psychotherapy.* Cambridge University Press.
 
-        ## Peer-reviewed Articles
+        ### Peer-reviewed Articles
 
         **Melichar, H. G.** (forthcoming). Phenomenology as an Aristotelian metaphysics of mind. Enactivism as a bridge between transcendental philosophy and Aristotelian naturalism. *Journal of Transcendental Philosophy.*
 
@@ -46,7 +46,7 @@ sections:
 
         **Melichar, H. G.** (2019). The universal will as final end. *Philosophical Inquiries*, 2/2019. https://doi.org/10.4454/philinq.v7i2.247
 
-        ## Book Chapters and Invited Publications
+        ### Book Chapters and Invited Publications
 
         **Melichar, H. G.** (forthcoming 2027). Freiheit in Beziehung. In: *Verkörperte Vernunft*, hgg. von Christian Tewes und Thomas Fuchs. Suhrkamp.
 
@@ -58,13 +58,13 @@ sections:
 
         **Melichar, H. G.** (2020). Gibt es etwas, weil es etwas geben soll? In: *Festschrift für Friedrich Hermanni.* Mohr Siebeck.
 
-        ## Under Review
+        ### Under Review
 
         **Melichar, H. G.** Situated Reason as Sensitivity. Toward a non-reductive, ecological, and enacted understanding of human epistemic abilities and norms. *Erkenntnis* (under review).
 
         **Melichar, H. G.** Freedom and Dignity. Reason as Entelechy in Hegel's late Psychology. *Hegel Bulletin* (under review).
 
-        ## Reviews and Translations
+        ### Reviews and Translations
 
         **Melichar, H. G.** (forthcoming). Review of Ruhwinkel, Bernadette: Ökologisch-systemische Therapie. Ein Lehr- und Handbuch für Studium und klinische Praxis. *Familiendynamik.*
 

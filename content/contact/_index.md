@@ -11,7 +11,7 @@ sections:
       title: 'Contact'
       subtitle: ''
       text: |-
-        ## Affiliation
+        ### Affiliation
 
         Dr. Hannes Gustav Melichar
 
@@ -25,16 +25,16 @@ sections:
 
         Voßstraße 4, 69115 Heidelberg
 
-        ## Email
+        ### Email
 
         [gustav.melichar@uni-heidelberg.de](mailto:gustav.melichar@uni-heidelberg.de)
 
-        ## Academic Profiles
+        ### Academic Profiles
 
         - [Academia.edu](https://uni-heidelberg.academia.edu/GustavMelichar)
         - [LinkedIn](https://www.linkedin.com/in/gustav-melichar-617732152/)
 
-        ## Counseling Inquiries
+        ### Counseling Inquiries
 
         For counseling appointments, please write to me directly at [gustav.melichar@uni-heidelberg.de](mailto:gustav.melichar@uni-heidelberg.de). I will get back to you within a few days to arrange an initial conversation.
     design:
