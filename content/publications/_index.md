@@ -22,7 +22,7 @@ sections:
 
         ### Peer-reviewed Articles
 
-        **Melichar, H. G.** (forthcoming). Phenomenology as an Aristotelian metaphysics of mind. Enactivism as a bridge between transcendental philosophy and Aristotelian naturalism. *Journal of Transcendental Philosophy.*
+        **Melichar, H. G.** (2026). Mind in Nature: Enactivism as a Bridge between Transcendental Phenomenology and Aristotelian Naturalism. *Journal of Transcendental Philosophy.*
 
         **Melichar, H. G.** Vespermann, D. (forthcoming). Transformative Trust. Interpersonal Autonomy, Affectivity, and Vulnerability in Trust and Its Relevance for Psychotherapy. In: *Phenomenology of Emotion*, hgg. von H. G. Melichar et al. Cambridge University Press.
 
