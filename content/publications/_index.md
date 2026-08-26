@@ -18,7 +18,7 @@ sections:
 
         ### Edited Volumes
 
-        **Melichar, H. G.** et al. (forthcoming 2026). *Phenomenology of Emotion: Embodiment and Vulnerability. Perspectives from Philosophy, Psychopathology, and Psychotherapy.* Cambridge University Press.
+        **Melichar, H. G.**, Schmidt-Boddy, P., Fuchs, Th., and Tewes, C. (eds.) (2026). *Phenomenology of Emotions: Perspectives from Philosophy, Psychopathology, and Psychotherapy.* Cambridge University Press. https://doi.org/10.1017/9781009627269
 
         ### Peer-reviewed Articles
 
