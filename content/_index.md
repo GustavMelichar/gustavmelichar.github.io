@@ -15,9 +15,9 @@ sections:
       text: |-
         <h1 style="text-align: center;">Gustav Melichar</h1>
 
-        <div style="display: grid; grid-template-columns: 220px 1fr; gap: 2rem; align-items: start; margin-top: 2rem;">
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start; margin-top: 2rem;">
         <div>
-        {{< figure src="authors/melichar/IMG_1199.jpeg" width="200px" style="border-radius: 50%;" >}}
+        {{< figure src="authors/melichar/IMG_1199.jpeg" width="280px" >}}
         </div>
         <div style="padding-top: 0;">
 

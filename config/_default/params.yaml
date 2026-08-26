@@ -151,7 +151,7 @@ hugoblox:
   # CONTENT
   # Content rendering and behavior
   # ────────────────────────────────────────────────────────────────────────────
-  content:
+    content:
     # Math rendering
     math:
       enable: false
@@ -164,6 +164,7 @@ hugoblox:
     # Academic citations
     citations:
       style: apa                        # apa | mla | chicago | ieee
+    
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEARCH
