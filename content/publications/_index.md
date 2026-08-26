@@ -24,7 +24,7 @@ sections:
 
         **Melichar, H. G.** (2026). Mind in Nature: Enactivism as a Bridge between Transcendental Phenomenology and Aristotelian Naturalism. *Journal of Transcendental Philosophy.* https://doi.org/10.1515/jtph-2025-0031
 
-        **Melichar, H. G.** Vespermann, D. (forthcoming). Transformative Trust. Interpersonal Autonomy, Affectivity, and Vulnerability in Trust and Its Relevance for Psychotherapy. In: *Phenomenology of Emotion*, hgg. von H. G. Melichar et al. Cambridge University Press.
+        **Melichar, H. G.** and Vespermann, D. (2026). Transformative Trust: Interpersonal Autonomy, Affectivity, and Vulnerability in Trust and Its Relevance for Psychotherapy. In: *Phenomenology of Emotions*, eds. H. G. Melichar et al. Cambridge University Press, pp. 421–443. https://doi.org/10.1017/9781009627269.019
 
         **Melichar, H. G.**, Schmidt-Boddy, P., Vespermann, D., and Fuchs, Th. (2026). For real? – Epistemic trust within online environments and the lures of conspiracy thinking. *Human Studies.*
 
@@ -50,7 +50,7 @@ sections:
 
         **Melichar, H. G.** (forthcoming 2027). Freiheit in Beziehung. In: *Verkörperte Vernunft*, hgg. von Christian Tewes und Thomas Fuchs. Suhrkamp.
 
-        **Melichar, H. G.** (forthcoming 2026). Emotions and Vulnerabilities. In: *Phenomenology of Emotion*, hgg. von H. G. Melichar et al. Cambridge University Press.
+        **Melichar, H. G.**, Schmidt-Boddy, P., Fuchs, Th., and Tewes, C. (2026). Emotions and Vulnerability: Phenomenology, Psychopathology, and Psychotherapy. In: *Phenomenology of Emotions*, eds. H. G. Melichar et al. Cambridge University Press, pp. 1–38. https://doi.org/10.1017/9781009627269.001
 
         **Melichar, H. G.** (2026). Verkörperte Vernunft. Kann der Enaktivismus Hegels Psychologie aktualisieren? *Internationales Jahrbuch für philosophische Anthropologie*, hrsg. von S. Schüz.
 
