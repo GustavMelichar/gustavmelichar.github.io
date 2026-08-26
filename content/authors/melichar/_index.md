@@ -14,7 +14,7 @@ last_name: Melichar
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher & Philosophical Counselor
+role: Postdoctoral Researcher, Philosophical Counselor & Habilitation Candidate (University of Heidelberg)
 
 # Organizations/Affiliations
 organizations:
@@ -43,8 +43,11 @@ interests:
 # Education
 education:
   - area: PhD Philosophy
-    institution: [your institution]
-    date_end: '[year]'
+    institution: Eberhard-Karls-Universität Tübingen
+    date_end: '2019'
+  - area: Magister Artium Philosophy
+    institution: Friedrich-Schiller-Universität Jena
+    date_end: '2012'
 
 # highlight the author in author lists? (true/false)
 highlight_name: true

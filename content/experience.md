@@ -26,7 +26,7 @@ sections:
 
         ### Academic Education
 
-        **since 10/2021** Habilitation in preparation, Universität Heidelberg, Project: *Verkörperte Vernunft* (submission: September 2026)
+        **since 10/2021** Habilitation in preparation, Universität Heidelberg, Project: *Verkörperte Vernunft* (submission: October 2026)
 
         **05/2013 – 05/2019** PhD, Eberhard-Karls-Universität Tübingen, *summa cum laude*, Thesis: *Das ontologische Argument in Kants und Hegels theoretischer Philosophie* (Supervisors: Prof. Dr. Friedrich Hermanni, Prof. Dr. Friedrike Schick, Prof. Dr. Johannes Brachtendorf)
 
